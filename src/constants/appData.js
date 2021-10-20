@@ -1,0 +1,1 @@
+export const TRX_LOCAL_STORE_KEY="swipeXTrx";

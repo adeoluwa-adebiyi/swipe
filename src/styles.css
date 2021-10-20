@@ -1,0 +1,17 @@
+#root {
+  font-family: sans-serif;
+  height: 100vh;
+  margin: 0;
+  padding: 0px;
+  /* text-align: center; */
+}
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Kanit', sans-serif;
+}
+html {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Kanit', sans-serif;
+}
